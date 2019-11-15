@@ -30,7 +30,7 @@ program
   .option('-m, --mouse-events <events>', 'list the mouse events to monitor', commaSeparatedList)
   .description('Start a monitor or all monitors')
   .action(verifyUser)
-  .action(uptime)
+  // .action(uptime)
   .action(startMonitor);
 
 program

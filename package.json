@@ -1,6 +1,6 @@
 {
   "name": "devsig",
-  "version": "1.2.2-alpha-1",
+  "version": "1.2.3",
   "description": "a daemon for collecting work logs from the host machine",
   "main": "devsig.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "active-win": "^5.1.2",
     "asciichart": "^1.5.9",
     "chalk": "^2.4.2",
-    "commander": "^3.0.0",
+    "commander": "^4.0.0",
     "conf": "^5.0.0",
     "dayjs": "^1.8.16",
     "devsig-client": "^0.2.3",
